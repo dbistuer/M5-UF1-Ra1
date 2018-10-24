@@ -64,4 +64,54 @@ Una particularitat del C ++ és la possibilitat de redefinir els operadors, i de
 
 3. Busca llenguatges de programació del següent tipus:
 	* Llenguatges orientats a servidors.
+		* ASP.NET
+		* PERL
+		* PHP
+		* JSP
+		* Visual Basic Sript
+		
 	* Llenguatges orientats a objectes.
+		* ABAP
+		* ABL
+        * ActionScript
+        * ActionScript
+        * C Sharp (C#)
+        * Clarion
+        * Clipper
+        * D
+        * Object Pascal
+        * Gambas
+        * GObject
+        * Genie
+        * Harbour
+        * Eiffel
+        * Fortran 90/95
+        * Java
+        * JavaScript
+        * Lexico
+        * Objective-C
+        * Ocaml
+        * Oz
+        * R
+        * Pascal
+        * Perl
+        * PHP
+        * PowerScript
+        * Processing
+        * Python
+        * Ruby
+        * Self
+        * Smalltalk
+        * Swift
+        * Magik
+        * Vala
+        * VB.NET
+        * Visual FoxPro
+        * Visual Basic 6.0
+        * Visual DataFlex
+        * Visual Objects
+        * XBase++
+        * DRP
+        * Scala
+
+
